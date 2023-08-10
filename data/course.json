@@ -1,0 +1,32 @@
+{
+  "term": "Spring",
+  "year": "2027",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "test-site"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test-site"
+  },
+  "course_title": "p1",
+  "hide_download": false,
+  "course_description": "p1",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "test-site"
+  },
+  "learning_resource_types": [],
+  "site_uid": "580f5d06-0015-49be-8461-e156a71e7d38",
+  "site_short_id": "test-site"
+}
