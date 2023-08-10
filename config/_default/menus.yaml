@@ -1,0 +1,9 @@
+leftnav:
+- identifier: cab2c68c-ead5-44e4-b9c1-5ace1c3e7b54
+  name: p1 link
+  pageRef: /pages/page-1
+  weight: 10
+- identifier: 1f3391f9-b589-4bf6-8134-4d469b042d0b
+  name: rl
+  pageRef: /resources/small-video_mp4
+  weight: 20
